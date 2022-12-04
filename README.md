@@ -1,1 +1,1 @@
-# buptDigitalLogicResources
+# 北京邮电大学数字逻辑课程相关资源
